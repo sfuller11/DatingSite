@@ -1,0 +1,14 @@
+C:\Users\seanf\OneDrive\Desktop\3342 prodz\DatingSite4\DatingAPI\bin\Debug\netcoreapp2.1\DatingAPI.deps.json
+C:\Users\seanf\OneDrive\Desktop\3342 prodz\DatingSite4\DatingAPI\bin\Debug\netcoreapp2.1\DatingAPI.runtimeconfig.json
+C:\Users\seanf\OneDrive\Desktop\3342 prodz\DatingSite4\DatingAPI\bin\Debug\netcoreapp2.1\DatingAPI.runtimeconfig.dev.json
+C:\Users\seanf\OneDrive\Desktop\3342 prodz\DatingSite4\DatingAPI\bin\Debug\netcoreapp2.1\DatingAPI.dll
+C:\Users\seanf\OneDrive\Desktop\3342 prodz\DatingSite4\DatingAPI\bin\Debug\netcoreapp2.1\DatingAPI.pdb
+C:\Users\seanf\OneDrive\Desktop\3342 prodz\DatingSite4\DatingAPI\obj\Debug\netcoreapp2.1\DatingAPI.csprojAssemblyReference.cache
+C:\Users\seanf\OneDrive\Desktop\3342 prodz\DatingSite4\DatingAPI\obj\Debug\netcoreapp2.1\DatingAPI.csproj.CoreCompileInputs.cache
+C:\Users\seanf\OneDrive\Desktop\3342 prodz\DatingSite4\DatingAPI\obj\Debug\netcoreapp2.1\DatingAPI.RazorAssemblyInfo.cache
+C:\Users\seanf\OneDrive\Desktop\3342 prodz\DatingSite4\DatingAPI\obj\Debug\netcoreapp2.1\DatingAPI.RazorAssemblyInfo.cs
+C:\Users\seanf\OneDrive\Desktop\3342 prodz\DatingSite4\DatingAPI\obj\Debug\netcoreapp2.1\DatingAPI.AssemblyInfoInputs.cache
+C:\Users\seanf\OneDrive\Desktop\3342 prodz\DatingSite4\DatingAPI\obj\Debug\netcoreapp2.1\DatingAPI.AssemblyInfo.cs
+C:\Users\seanf\OneDrive\Desktop\3342 prodz\DatingSite4\DatingAPI\obj\Debug\netcoreapp2.1\DatingAPI.RazorTargetAssemblyInfo.cache
+C:\Users\seanf\OneDrive\Desktop\3342 prodz\DatingSite4\DatingAPI\obj\Debug\netcoreapp2.1\DatingAPI.dll
+C:\Users\seanf\OneDrive\Desktop\3342 prodz\DatingSite4\DatingAPI\obj\Debug\netcoreapp2.1\DatingAPI.pdb
